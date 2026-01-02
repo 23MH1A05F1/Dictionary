@@ -36,12 +36,14 @@ A fully functional, responsive dictionary web application built with HTML, CSS, 
    git clone https://github.com/23MH1A05F1/Dictionary
    cd Dictionary
 ##  Project Structure
+
 dynamic-dictionary/
 │
 ├── index.html          # Main HTML structure
 ├── styles.css          # All CSS styles and responsive design
 ├── script.js           # API integration and functionality
 └── README.md          # You're reading it!
+
 
 ## Troubleshooting
 | Issue                | Solution                                      |
