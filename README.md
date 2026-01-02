@@ -35,12 +35,20 @@ A fully functional, responsive dictionary web application built with HTML, CSS, 
    ```bash
    git clone https://github.com/23MH1A05F1/Dictionary
    cd Dictionary
-
+## Project Structure
 Dictionary/
 │
 ├── index.html          # Main HTML structure
 ├── styles.css          # All CSS styles and responsive design
 ├── script.js           # API integration and functionality
 └── README.md          # You're reading it!
+
+## Troubleshooting
+Issue	Solution
+No definitions found	Check internet connection, try different word
+Audio not playing	Ensure browser allows autoplay
+Styles not loading	Check Font Awesome CDN connection
+API errors	Verify API endpoint in script.js
+
 
 
