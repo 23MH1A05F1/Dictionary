@@ -44,11 +44,12 @@ dynamic-dictionary/
 └── README.md          # You're reading it!
 
 ## Troubleshooting
-Issue	Solution
-No definitions found	Check internet connection, try different word
-Audio not playing	Ensure browser allows autoplay
-Styles not loading	Check Font Awesome CDN connection
-API errors	Verify API endpoint in script.js
+| Issue                | Solution                                      |
+| -------------------- | --------------------------------------------- |
+| No definitions found | Check internet connection, try different word |
+| Audio not playing    | Ensure browser allows autoplay                |
+| Styles not loading   | Check Font Awesome CDN connection             |
+| API errors           | Verify API endpoint in script.js              |
 
 
 
