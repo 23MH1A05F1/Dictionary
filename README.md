@@ -7,7 +7,6 @@ A fully functional, responsive dictionary web application built with HTML, CSS, 
 
 
 Demo link :https://23mh1a05f1.github.io/Dictionary/
-<img width="888" height="849" alt="image" src="https://github.com/user-attachments/assets/5c2b1454-8d20-4510-8739-c2861bd14392" />
 
 ##  Features
 
